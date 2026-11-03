@@ -1,4 +1,3 @@
-#DataThief /home/og/Documents/articles/mussel_beds/bertolini.png Tuesday 28-Jul-2026 4:29:47 PM
 1.0526, 0.033
 6.4115, 0.0303
 11.0048, 0.0279
